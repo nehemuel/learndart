@@ -1,0 +1,1 @@
+A small collection of Dart code examples, each with clear inline explanations, created to help me learn and practice the basics of the Dart language.
